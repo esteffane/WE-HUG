@@ -11,9 +11,10 @@
   "preview" : {
     "distribuition": "internal"  
   },
-  "production" trabalho
-
+  "production": {} 
 },
-
-  }
+  "submit":{
+    "production":{}
+}
+}
   
