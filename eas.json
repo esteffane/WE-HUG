@@ -1,0 +1,19 @@
+{
+  "cli": {
+    "version": ">= 3.13.1"
+
+},
+"buid" : {
+  "development": {
+    "developmentCLient": true,
+    "distribution": "internal"
+  },
+  "preview" : {
+    "distribuition": "internal"  
+  },
+  "production" trabalho
+
+},
+
+  }
+  
